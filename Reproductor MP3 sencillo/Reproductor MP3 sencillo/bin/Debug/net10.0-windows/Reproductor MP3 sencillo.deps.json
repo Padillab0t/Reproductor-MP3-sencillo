@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Reproductor MP3 sencillo/1.0.0": {
+        "runtime": {
+          "Reproductor MP3 sencillo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reproductor MP3 sencillo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,19 @@
+C:\Users\Alumno\source\repos\Reproductor MP3 sencillo\Reproductor MP3 sencillo\bin\Debug\net10.0-windows\Reproductor MP3 sencillo.exe
+C:\Users\Alumno\source\repos\Reproductor MP3 sencillo\Reproductor MP3 sencillo\bin\Debug\net10.0-windows\Reproductor MP3 sencillo.deps.json
+C:\Users\Alumno\source\repos\Reproductor MP3 sencillo\Reproductor MP3 sencillo\bin\Debug\net10.0-windows\Reproductor MP3 sencillo.runtimeconfig.json
+C:\Users\Alumno\source\repos\Reproductor MP3 sencillo\Reproductor MP3 sencillo\bin\Debug\net10.0-windows\Reproductor MP3 sencillo.dll
+C:\Users\Alumno\source\repos\Reproductor MP3 sencillo\Reproductor MP3 sencillo\bin\Debug\net10.0-windows\Reproductor MP3 sencillo.pdb
+C:\Users\Alumno\source\repos\Reproductor MP3 sencillo\Reproductor MP3 sencillo\obj\Debug\net10.0-windows\Interop.WMPLib.dll
+C:\Users\Alumno\source\repos\Reproductor MP3 sencillo\Reproductor MP3 sencillo\obj\Debug\net10.0-windows\Reproductor MP3 sencillo.csproj.ResolveComReference.cache
+C:\Users\Alumno\source\repos\Reproductor MP3 sencillo\Reproductor MP3 sencillo\obj\Debug\net10.0-windows\Reproductor_MP3_sencillo.Form1.resources
+C:\Users\Alumno\source\repos\Reproductor MP3 sencillo\Reproductor MP3 sencillo\obj\Debug\net10.0-windows\Reproductor_MP3_sencillo.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Reproductor MP3 sencillo\Reproductor MP3 sencillo\obj\Debug\net10.0-windows\Reproductor MP3 sencillo.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Reproductor MP3 sencillo\Reproductor MP3 sencillo\obj\Debug\net10.0-windows\Reproductor MP3 sencillo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\Reproductor MP3 sencillo\Reproductor MP3 sencillo\obj\Debug\net10.0-windows\Reproductor MP3 sencillo.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\Reproductor MP3 sencillo\Reproductor MP3 sencillo\obj\Debug\net10.0-windows\Reproductor MP3 sencillo.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\Reproductor MP3 sencillo\Reproductor MP3 sencillo\obj\Debug\net10.0-windows\Reproductor MP3 sencillo.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Reproductor MP3 sencillo\Reproductor MP3 sencillo\obj\Debug\net10.0-windows\Reproductor MP3 sencillo.dll
+C:\Users\Alumno\source\repos\Reproductor MP3 sencillo\Reproductor MP3 sencillo\obj\Debug\net10.0-windows\refint\Reproductor MP3 sencillo.dll
+C:\Users\Alumno\source\repos\Reproductor MP3 sencillo\Reproductor MP3 sencillo\obj\Debug\net10.0-windows\Reproductor MP3 sencillo.pdb
+C:\Users\Alumno\source\repos\Reproductor MP3 sencillo\Reproductor MP3 sencillo\obj\Debug\net10.0-windows\Reproductor MP3 sencillo.genruntimeconfig.cache
+C:\Users\Alumno\source\repos\Reproductor MP3 sencillo\Reproductor MP3 sencillo\obj\Debug\net10.0-windows\ref\Reproductor MP3 sencillo.dll
